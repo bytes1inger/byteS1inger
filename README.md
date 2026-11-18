@@ -100,11 +100,9 @@ seem to find useful:
 
 ### Where this work happens
 
-| | |
-| :--- | :--- |
-| **Palladium** | The national health platform, roughly 2,000 facilities, and its clinical AI inference tier |
-| **Old&nbsp;Mutual** | Nexus, an AI workflow orchestration platform, and the self-hosted inference tier beneath it |
-| **DNDi** | Model Context Protocol servers and agents on Azure |
+- **Palladium** &nbsp;·&nbsp; the national health platform, roughly 2,000 facilities, and its clinical AI inference tier
+- **Old Mutual** &nbsp;·&nbsp; Nexus, an AI workflow orchestration platform, and the self-hosted inference tier beneath it
+- **DNDi** &nbsp;·&nbsp; Model Context Protocol servers and agents on Azure
 
 <br>
 
