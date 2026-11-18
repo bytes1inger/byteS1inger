@@ -1,78 +1,139 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
 
-<h1 align="center"> <p style="Font-family: Papyrus, cursive"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Warui</h1> </a> </p>
-<h3 align="center"><p style="Font-family: Papyrus, cursive"> <a style = "color:Orange" >I'm a zealous Data Evangelist from Kenya.</a></p></h3>
+# Gideon Warui
 
-## 🙋‍♂️ About Me
+**Platform Engineer** &nbsp;·&nbsp; Nairobi, Kenya
 
-- 🔭 I’m currently working as a **Data Engineer at NCBA Group && DevSecOps Engineer at Old Mutual Group**
+Production infrastructure at national scale, kept reliable,<br>
+with the AI platform layer built on top of it.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
+<br>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-
-
-- 📫 How to reach me **waruigwanjiru@gmail.com**
-
-- ⚡ Fun facts  **Using laziness as a motivation for optimization and efficiency**
-
-             
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href= "https://docs.microsoft.com/en-us/dotnet/csharp/" target = "_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
-    <a href="https://tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href = "https://jupyter,org" target = "_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
-     <a href="https://www.tableau.com/products/desktop" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png" width = "48" height = "48"/> </a>
-    <a href="https://www.office.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/office-365.png"/></a>
-    
-
- </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/byteS1inger/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Warui Wanjiru's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=byteS1inger&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/byteS1inger/github-readme-stats"><img alt="Warui Wanjiru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=byteS1inger&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/byteS1inger/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Algorist&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/byteS1inger/github-readme-activity-graph"><img alt="Warui Wanjiru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=byteS1inger&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/warui-wanjiru-89-2085185"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=The-Algorist">
+<a href="https://gideonwarui.com">
+  <img src="https://img.shields.io/badge/gideonwarui.com-0F172A?style=flat-square&logo=githubpages&logoColor=white" alt="Website">
 </a>
-<a href="https://github.com/byteS1inger?tab=followers"><img src="https://img.shields.io/github/followers/byteS1inger?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/warui-wanjiru">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:hello@gideonwarui.com">
+  <img src="https://img.shields.io/badge/hello@gideonwarui.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+---
+
+### Currently
+
+| | |
+| :--- | :--- |
+| **Palladium** | The platform behind a national health system of roughly 2,000 facilities on EKS and on-premise Kubernetes, plus the clinical AI inference tier on top of it |
+| **Old Mutual** | Platform engineer for Nexus, an AI workflow orchestration platform, and owner of the self-hosted inference tier underneath it |
+| **DNDi** | Model Context Protocol servers and agents on Azure |
+
+<br>
+
+---
+
+### Platform engineering
+
+<img src="https://img.shields.io/badge/Kubernetes-2563EB?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-2563EB?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Argo%20CD-2563EB?style=flat-square&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-2563EB?style=flat-square&logo=helm&logoColor=white">
+<img src="https://img.shields.io/badge/OpenShift-2563EB?style=flat-square&logo=redhatopenshift&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-2563EB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-2563EB?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2563EB?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-2563EB?style=flat-square&logo=linux&logoColor=white">
+
+Kubernetes in production across EKS, AKS, OpenShift and AWS Outposts. Roughly 1,300 Argo CD
+applications reconciling a 2,000-facility fleet against a single uniform base manifest
+contract. Terraform modules, workspaces and remote state. Multi-account landing zones with
+account vending, SSO provisioning and least-privilege cross-account roles.
+
+Most of what I leave behind is the unglamorous part: the modules, pipeline templates,
+runbooks and disaster recovery blueprints other teams reuse instead of reinventing.
+Twenty-seven architecture decision records and counting.
+
+<br>
+
+### Reliability
+
+<img src="https://img.shields.io/badge/Prometheus-EA580C?style=flat-square&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-EA580C?style=flat-square&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/OpenTelemetry-EA580C?style=flat-square&logo=opentelemetry&logoColor=white">
+<img src="https://img.shields.io/badge/VictoriaMetrics-EA580C?style=flat-square&logo=victoriametrics&logoColor=white">
+<img src="https://img.shields.io/badge/Loki-EA580C?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Thanos-EA580C?style=flat-square&logoColor=white">
+
+Service level objectives with the measurement to back them. At Old Mutual: availability from
+around 90% to a formal 99.9% objective, mean time to recovery from six hours to under one,
+incident rate from two or three a week to roughly one a quarter.
+
+Alert on symptoms, not causes. One example: a five-hour detection gap on Tomcat thread-pool
+exhaustion, where the liveness check could not tell a dead JVM from a live one that could not
+serve traffic. Closed it by deploying the JMX exporter fleet-wide and writing an alert that
+separates the two.
+
+Toil is the thing I most want gone. Deployment turnaround from eight hours of manual release
+work to ten minutes across nine projects. A fleet upgrade path that was manual and
+per-facility now takes a release across 1,304 applications in a single driven run. Capacity
+and cost treated as reliability concerns rather than finance ones: fleet spend from around
+US$160,000 to US$95,000 a month through right-sizing and autoscaling.
+
+<br>
+
+### AI infrastructure
+
+<img src="https://img.shields.io/badge/vLLM-7C3AED?style=flat-square&logo=vllm&logoColor=white">
+<img src="https://img.shields.io/badge/llm--d-7C3AED?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/LiteLLM-7C3AED?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Anthropic-7C3AED?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging%20Face-7C3AED?style=flat-square&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/Langfuse-7C3AED?style=flat-square&logoColor=white">
+
+Self-hosted inference: open-weight models, Qwen and GLM, on Kubernetes with vLLM. llm-d for
+cache-aware routing over the Kubernetes Gateway API Inference Extension. LiteLLM as the model
+gateway, with virtual keys and per-key budgets across self-hosted and commercial providers.
+
+Agents and MCP: agents that plan and act through tool use, Model Context Protocol servers
+with scoped read-only access and semantic schema description, retrieval and agent memory,
+OAuth and scoped tokens for connector authentication.
+
+Measure AI like anything else in production. Token cost per request, latency percentiles,
+failure and fallback rates, and answer quality scored live in production against an objective
+rather than only before release. In regulated estates, identifiers are stripped before
+anything reaches a model endpoint or a log store, and that constraint is usually what decides
+which workloads can use a hosted provider and which have to be self-hosted.
+
+<br>
+
+---
+
+### Writing
+
+I write up production incidents and infrastructure work at
+**[gideonwarui.com](https://gideonwarui.com)**. Around 45 posts so far. A few that people
+seem to find useful:
+
+- Azure Blob Private Link looked configured but wasn't: three misconfigs that left public access
+- A shadow Azure Function wiped every gold table at 2am
+- Natural language to SQL with Claude Haiku: schema grounding, validation, and a read-only DuckDB
+- Querying the Kubernetes Metrics API from a pod: RBAC, Python client, and Grafana without Prometheus
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Go-334155?style=flat-square&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white">
+
+</div>
