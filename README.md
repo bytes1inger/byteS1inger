@@ -9,15 +9,7 @@ with the AI platform layer built on top of it.
 
 <br>
 
-<a href="https://gideonwarui.com">
-  <img src="https://img.shields.io/badge/gideonwarui.com-0F172A?style=flat-square&logo=githubpages&logoColor=white" alt="Website">
-</a>
-<a href="https://www.linkedin.com/in/warui-wanjiru">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:hello@gideonwarui.com">
-  <img src="https://img.shields.io/badge/hello@gideonwarui.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p><a href="https://gideonwarui.com"><img src="https://img.shields.io/badge/gideonwarui.com-0F172A?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/warui-wanjiru"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logoColor=white" alt="LinkedIn"></a> <a href="mailto:hello@gideonwarui.com"><img src="https://img.shields.io/badge/hello@gideonwarui.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></p>
 
 </div>
 
@@ -27,10 +19,10 @@ with the AI platform layer built on top of it.
 
 ### Currently
 
-| | |
+| Where | What |
 | :--- | :--- |
 | **Palladium** | The platform behind a national health system of roughly 2,000 facilities on EKS and on-premise Kubernetes, plus the clinical AI inference tier on top of it |
-| **Old Mutual** | Platform engineer for Nexus, an AI workflow orchestration platform, and owner of the self-hosted inference tier underneath it |
+| **Old&nbsp;Mutual** | Platform engineer for Nexus, an AI workflow orchestration platform, and owner of the self-hosted inference tier underneath it |
 | **DNDi** | Model Context Protocol servers and agents on Azure |
 
 <br>
@@ -39,15 +31,9 @@ with the AI platform layer built on top of it.
 
 ### Platform engineering
 
-<img src="https://img.shields.io/badge/Kubernetes-2563EB?style=flat-square&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-2563EB?style=flat-square&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Argo%20CD-2563EB?style=flat-square&logo=argo&logoColor=white">
-<img src="https://img.shields.io/badge/Helm-2563EB?style=flat-square&logo=helm&logoColor=white">
-<img src="https://img.shields.io/badge/OpenShift-2563EB?style=flat-square&logo=redhatopenshift&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-2563EB?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-2563EB?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2563EB?style=flat-square&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-2563EB?style=flat-square&logo=linux&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-2563EB?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-2563EB?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Argo%20CD-2563EB?style=flat-square&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/Helm-2563EB?style=flat-square&logo=helm&logoColor=white"> <img src="https://img.shields.io/badge/OpenShift-2563EB?style=flat-square&logo=redhatopenshift&logoColor=white"> <img src="https://img.shields.io/badge/AWS-2563EB?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Azure-2563EB?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2563EB?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Linux-2563EB?style=flat-square&logo=linux&logoColor=white">
+</p>
 
 Kubernetes in production across EKS, AKS, OpenShift and AWS Outposts. Roughly 1,300 Argo CD
 applications reconciling a 2,000-facility fleet against a single uniform base manifest
@@ -62,12 +48,9 @@ Twenty-seven architecture decision records and counting.
 
 ### Reliability
 
-<img src="https://img.shields.io/badge/Prometheus-EA580C?style=flat-square&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-EA580C?style=flat-square&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/OpenTelemetry-EA580C?style=flat-square&logo=opentelemetry&logoColor=white">
-<img src="https://img.shields.io/badge/VictoriaMetrics-EA580C?style=flat-square&logo=victoriametrics&logoColor=white">
-<img src="https://img.shields.io/badge/Loki-EA580C?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Thanos-EA580C?style=flat-square&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/Prometheus-EA580C?style=flat-square&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-EA580C?style=flat-square&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/OpenTelemetry-EA580C?style=flat-square&logo=opentelemetry&logoColor=white"> <img src="https://img.shields.io/badge/VictoriaMetrics-EA580C?style=flat-square&logo=victoriametrics&logoColor=white"> <img src="https://img.shields.io/badge/Loki-EA580C?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Thanos-EA580C?style=flat-square&logoColor=white">
+</p>
 
 Service level objectives with the measurement to back them. At Old Mutual: availability from
 around 90% to a formal 99.9% objective, mean time to recovery from six hours to under one,
@@ -88,13 +71,9 @@ US$160,000 to US$95,000 a month through right-sizing and autoscaling.
 
 ### AI infrastructure
 
-<img src="https://img.shields.io/badge/vLLM-7C3AED?style=flat-square&logo=vllm&logoColor=white">
-<img src="https://img.shields.io/badge/llm--d-7C3AED?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/LiteLLM-7C3AED?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Anthropic-7C3AED?style=flat-square&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging%20Face-7C3AED?style=flat-square&logo=huggingface&logoColor=white">
-<img src="https://img.shields.io/badge/Langfuse-7C3AED?style=flat-square&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/vLLM-7C3AED?style=flat-square&logo=vllm&logoColor=white"> <img src="https://img.shields.io/badge/llm--d-7C3AED?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/LiteLLM-7C3AED?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Anthropic-7C3AED?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Hugging%20Face-7C3AED?style=flat-square&logo=huggingface&logoColor=white"> <img src="https://img.shields.io/badge/Langfuse-7C3AED?style=flat-square&logoColor=white">
+</p>
 
 Self-hosted inference: open-weight models, Qwen and GLM, on Kubernetes with vLLM. llm-d for
 cache-aware routing over the Kubernetes Gateway API Inference Extension. LiteLLM as the model
@@ -131,9 +110,8 @@ seem to find useful:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Go-334155?style=flat-square&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-334155?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white">
+</p>
 
 </div>
